@@ -9,8 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-import pandas as pd
-import numpy as np
 import sqlite3
 from datetime import datetime
 import csv
