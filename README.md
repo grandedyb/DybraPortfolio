@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/grandedyb/DybraPortfolio/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@granded/airplaneowners"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@granded/airplaneowners?embed=true"></iframe>
 
 
 ### Markdown
